@@ -1,0 +1,2 @@
+# self_learning_CNN
+对于FashionMNIST这个项目自己学习pytorch和CNN，有感兴趣的可以自己看看学习学习。
